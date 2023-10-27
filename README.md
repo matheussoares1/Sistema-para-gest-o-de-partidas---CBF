@@ -29,11 +29,15 @@ Neste projeto com fins de aprimorar nosso conhecimento quanto a linguagens já e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+
+
+###
 </div>
 
 ## Etapa 01
 ### 🚀 Definição do grupo:
-> Ana Livia - Front e Relatora de Documentação<br>
+> Ana Livia - Relatora de Documentação<br>
 > Anderson Melo - Front<br>
 > Arthur Oliveira - MER e Logico/Relacional<br>
 > David Saboia - Back-end<br>
@@ -45,13 +49,14 @@ Neste projeto com fins de aprimorar nosso conhecimento quanto a linguagens já e
 ### Criação do Modelo Entidade Relacionamento(MER): 
 Iniciamos o projeto relacionando as entidades (5 ao total) entre si por meio do Modelo Entidade Relacionamento(MER), como é visto abaixo.
 
-  <img height= "350" width="700" src="https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/a8ec564a-5e8c-4b7e-8110-3aead65d07b2"/>
-  <br>
+  <img height= "350" width="700" src="https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/313d7bce-3181-43f8-b136-c5666cdf82e8"/>
   
 ### Criação do Modelo Lógico:
 A partir do anterior, geramos o Modelo Lógico 
 
-  <img height= "350" width="700" src="https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/313d7bce-3181-43f8-b136-c5666cdf82e8"/>
+  <img height= "350" width="700" src="https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/a8ec564a-5e8c-4b7e-8110-3aead65d07b2"/>
+  
+  <br>
 
 ## Etapas 04,05 e 6
 ### Criação do Banco de Dados:
@@ -66,6 +71,17 @@ CREATE TABLE usuarios(
 ```
 ![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111543203/c7b6de86-a1e9-4dff-a981-1cd469a1d3d2)
 
-### Aparência da aplicação: 
-Basicamente o usuário pode acessar sua conta ou cadastrar-se para ter acesso à aplicação.
+### Interface da aplicação: 
+Basicamente o usuário pode acessar sua conta ou cadastrar-se para ter acesso à aplicação e suas funções.
+![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/ce60333a-8fd3-40c1-b195-1087d5799d3e)
+<br>
+![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/30ea4f25-f156-48db-a0dd-c074d3e67aea)
+<br>
+![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/a17d73aa-e495-4018-9541-e84d0fa8efa1)
+<br>
+![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/31f6ee74-4a61-4dd0-86f7-95d98885cbc8)
+<br>
+![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/6e9b4771-475d-4dfd-8a79-1051995678da)
+<br>
+![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/b9f51274-b045-42b3-975c-26c6b56dd27c)
 
